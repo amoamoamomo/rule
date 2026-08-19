@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,881218.xyz
+DOMAIN-SUFFIX,nodeloc.com
